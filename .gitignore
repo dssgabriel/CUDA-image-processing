@@ -1,0 +1,8 @@
+# Directories to ignore
+# /ext
+/target
+/romeo-output
+
+# Files to ignore
+*.jpg
+*.pdf
