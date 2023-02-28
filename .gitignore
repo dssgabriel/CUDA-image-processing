@@ -1,5 +1,5 @@
 # Directories to ignore
-# /ext
+/ext
 /target
 /romeo-output
 
